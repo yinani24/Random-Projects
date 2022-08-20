@@ -40,6 +40,7 @@ function calculator(state){
 function reducer(state, action){
   switch(action.type){
     case ACTIONS.ADD_Num:
+      
       if(state.newnum)
       return{
         ...state,
