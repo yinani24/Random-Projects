@@ -127,6 +127,7 @@ function App() {
           <button className='span-two' onClick={() => dispatch({type: ACTIONS.reset})}>AC</button>
           <button onClick={() => dispatch({type: ACTIONS.DEL_Num})}>DEL</button>
           <button onClick={() => dispatch({type: ACTIONS.operation, ply: '÷'})}>÷</button>
+          
         </div>
         <div className='second'>
           <button onClick={() => dispatch({type: ACTIONS.ADD_Num, ply: '1'})}>1</button>
