@@ -109,7 +109,9 @@ function reducer(state, action){
         ...state,
         CurOp: state.CurOp.substring(0,state.CurOp.length - 1),
       }
-  }
+      
+      default: break;
+    }
 }
 
 function App() {
