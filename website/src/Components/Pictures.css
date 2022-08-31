@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&family=Inter:wght@400;500;600;700;800&display=swap');
+
+
+#Shaq{
+ position: relative;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ /* background-color: aqua; */
+ margin: 40px 2px 2px 2px;
+ /* padding: 5px; */
+}
+
+.GOT{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ padding: 5px;
+ border-radius: 30px;
+ background-color: #04285e;
+ margin: 5px;
+ /* width: 80%;
+ height: 80%; */
+}
+
+#img1{
+ width: 90%;
+ border-radius: 30px;
+ padding: 5px;
+ padding-top: 10px;
+}
+
+#img2{
+ width: 70%;
+ border-radius: 30px;
+ padding: 5px;
+ padding-top: 10px;
+}
+
+#img3{
+ width: 70%;
+ border-radius: 30px;
+ padding: 5px;
+ padding-top: 10px;
+}
+
+.written{
+ align-items: center;
+ word-wrap: break-word;
+ font-family: 'Inter';
+ font-weight: bold;
+ margin: 10px;
+ padding: 10px;
+ color: rgb(175, 238, 248);
+}

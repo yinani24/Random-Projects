@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&family=Inter:wght@400;500;600;700;800&display=swap');
+
+.New{
+ position: relative;
+ color: black;
+ display: flex;
+ justify-content: center;
+ margin-top: 15px;
+}
+
+#New{
+ padding: 10px;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ background-color: rgb(5, 80, 126);
+ width: 30%;
+ border-radius: 20px;
+}
+
+label{
+ color: rgb(165, 249, 249);
+ font-size: 20px;
+ margin: 10px 15px 10px 15px;
+ font-family: 'Boogaloo';
+}
+
+input,textarea{
+ font-family: Poppins;
+ padding: 10px;
+ margin: 10px 15px 10px 15px;
+ border-radius: 20px;
+ box-sizing: border-box;
+ border: none;
+}
+
+input:hover,textarea:hover{
+ background-color: rgb(178, 198, 198);
+}
+
+textarea{
+ height: 150px;
+}
+
+.Other{
+ color: rgb(165, 249, 249);
+ font-size: 24px;
+ font-family: 'Inter';
+ font-weight: bold;
+ align-self: center;
+}
+
+#Other{
+ color: rgb(165, 249, 249);
+ font-size: 14px;
+ font-family: 'Inter';
+ font-weight: bold;
+ align-self: center;
+ margin-left: 100px;
+}

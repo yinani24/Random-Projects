@@ -68,3 +68,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Project Resources
+
+Website with the use of fullpage.js (not sure of this)
+It has one home page, about me page, contact page
+
+## Video Used is available for commercial use
+
+Pixabay License
+Free for commercial use
+No attribution required
+
+# Button 84 by Shuffle and button 35 by Mouseless from https://getcssscan.com/css-buttons-examples
+### Used EmailJS API for sending out the email to my personal email id and used their structure for the JS file with a lot of updates for the css development
+# Used materials-ui for the BOX shape
+# https://webdevassist.com/reactjs-materialui/box-component To understand Box development
+# To understand the contact page development https://www.youtube.com/watch?v=jOviw8Ou_Yk
+# Indian Ocean Image: https://www.kids-world-travel-guide.com/indian-ocean-facts.html
+# Pacific Ocean Image: https://www.lamag.com/culturefiles/35-gorgeously-wintry-views-pacific-ocean/
+# Arctic Ocean Image: https://www.google.com/imgres?imgurl=https%3A%2F%2Fcff2.earth.com%2Fuploads%2F2021%2F02%2F05165228%2Fshutterstock_780681282-scaled.jpg&imgrefurl=https%3A%2F%2Fwww.earth.com%2Fnews%2Fthe-arctic-ocean-was-filled-with-freshwater-at-least-twice-in-history%2F&tbnid=TnXSoegMd4sCUM&vet=12ahUKEwj0h8fW5vD5AhUWjtgFHVbkDKEQMygGegUIARDqAQ..i&docid=4z4LisRuBQMo2M&w=2560&h=1769&q=arctic%20ocean&ved=2ahUKEwj0h8fW5vD5AhUWjtgFHVbkDKEQMygGegUIARDqAQ
+
+# Marine Information: https://www.marinebio.org/oceans/geography/

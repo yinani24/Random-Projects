@@ -1,38 +1,110 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&family=Inter:wght@400;500;600;700;800&display=swap');
+
+*{
+  margin: 0px;
+  padding: 0px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.Home{
+  width: 100%;
+  height: 100%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.Vid{
+  width: 100%;
+  height: 100%;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+video{
+  width: 100%;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+}
+
+.Top{
+  width: 100vw;
+  height: 95px;
+  position: relative;
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  background-color: #04285e;
+  /* justify-content: space-between; */
+}
+
+/* .Empty{
+  width: 20%;
+  height: 40px;
+  position: relative;
+} */
+
+.Content{
+  width: 50%;
+  position: relative;
+  top: 10px;
+  color: #5e8fd9;
+  font-family: 'Boogalo';
+  font-size: 30px;
+  font-weight: 500;
+  margin-right: 40px; 
+  display: flex;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.SideButton{
+  width: 40%;
+  height: 40%;
+  position: relative;
+  top: 25px;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  column-gap: 10px;
+  margin-right: 20px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* button{
+  cursor: pointer;
+  font-size: 1rem;
+  border: 1px solid white;
+  outline: none;
+  border-radius: 20px;
+  background-color: rgb(232, 159, 24);
 }
+
+button:hover{
+  background-color: aqua;
+} */
+
+.But{
+  align-items: center;
+  background-color: #fff;
+  border-radius: 20px;
+  box-shadow: transparent 0 0 0 3px,rgba(18, 18, 18, .1) 0 6px 20px;
+  box-sizing: border-box;
+  color: #121212;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 1 1 auto;
+  font-family: Inter,sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+  justify-content: center;
+  line-height: 1;
+  margin: 0;
+  outline: none;
+  padding: 0.8rem 1rem;
+  text-align: center;
+  text-decoration: none;
+  transition: box-shadow .2s,-webkit-box-shadow .2s;
+  white-space: nowrap;
+  border: 0;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.But:hover {
+  background-color: #1e293b;
+  color: #fff;
+  box-shadow: #f1e1e1 0 0 0 3px, transparent 0 0 0 0;
+}
+
