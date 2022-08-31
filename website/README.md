@@ -73,7 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## Project Resources
 
 Website with the use of fullpage.js (not sure of this)
-It has one home page, about me page, contact page
+It has one home page, about me page, contact page, pictures page
 
 ## Video Used is available for commercial use
 
