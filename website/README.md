@@ -1,3 +1,8 @@
+![Screenshot (21)](https://user-images.githubusercontent.com/93968740/189634835-26ddb402-9de4-4853-9d17-03e19b4a95e2.png)
+![Screenshot (22)](https://user-images.githubusercontent.com/93968740/189634860-892823a0-5359-45c3-b16f-2ba6f81da4be.png)
+![Screenshot (23)](https://user-images.githubusercontent.com/93968740/189634883-60b55c5e-f2fd-42b6-8b05-d743cd3926f6.png)
+![Screenshot (24)](https://user-images.githubusercontent.com/93968740/189634776-bba0bc28-37b7-4a39-afaf-aa8b99fec248.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -81,13 +86,13 @@ Pixabay License
 Free for commercial use
 No attribution required
 
-# Button 84 by Shuffle and button 35 by Mouseless from https://getcssscan.com/css-buttons-examples
+## Button 84 by Shuffle and button 35 by Mouseless from https://getcssscan.com/css-buttons-examples
 ### Used EmailJS API for sending out the email to my personal email id and used their structure for the JS file with a lot of updates for the css development
-# Used materials-ui for the BOX shape
-# https://webdevassist.com/reactjs-materialui/box-component To understand Box development
-# To understand the contact page development https://www.youtube.com/watch?v=jOviw8Ou_Yk
-# Indian Ocean Image: https://www.kids-world-travel-guide.com/indian-ocean-facts.html
-# Pacific Ocean Image: https://www.lamag.com/culturefiles/35-gorgeously-wintry-views-pacific-ocean/
-# Arctic Ocean Image: https://www.google.com/imgres?imgurl=https%3A%2F%2Fcff2.earth.com%2Fuploads%2F2021%2F02%2F05165228%2Fshutterstock_780681282-scaled.jpg&imgrefurl=https%3A%2F%2Fwww.earth.com%2Fnews%2Fthe-arctic-ocean-was-filled-with-freshwater-at-least-twice-in-history%2F&tbnid=TnXSoegMd4sCUM&vet=12ahUKEwj0h8fW5vD5AhUWjtgFHVbkDKEQMygGegUIARDqAQ..i&docid=4z4LisRuBQMo2M&w=2560&h=1769&q=arctic%20ocean&ved=2ahUKEwj0h8fW5vD5AhUWjtgFHVbkDKEQMygGegUIARDqAQ
+## Used materials-ui for the BOX shape
+## https://webdevassist.com/reactjs-materialui/box-component To understand Box development
+## To understand the contact page development https://www.youtube.com/watch?v=jOviw8Ou_Yk
+## Indian Ocean Image: https://www.kids-world-travel-guide.com/indian-ocean-facts.html
+## Pacific Ocean Image: https://www.lamag.com/culturefiles/35-gorgeously-wintry-views-pacific-ocean/
+## Arctic Ocean Image: https://www.google.com/imgres?imgurl=https%3A%2F%2Fcff2.earth.com%2Fuploads%2F2021%2F02%2F05165228%2Fshutterstock_780681282-scaled.jpg&imgrefurl=https%3A%2F%2Fwww.earth.com%2Fnews%2Fthe-arctic-ocean-was-filled-with-freshwater-at-least-twice-in-history%2F&tbnid=TnXSoegMd4sCUM&vet=12ahUKEwj0h8fW5vD5AhUWjtgFHVbkDKEQMygGegUIARDqAQ..i&docid=4z4LisRuBQMo2M&w=2560&h=1769&q=arctic%20ocean&ved=2ahUKEwj0h8fW5vD5AhUWjtgFHVbkDKEQMygGegUIARDqAQ
 
-# Marine Information: https://www.marinebio.org/oceans/geography/
+## Marine Information: https://www.marinebio.org/oceans/geography/
