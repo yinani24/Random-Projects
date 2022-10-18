@@ -1,7 +1,4 @@
-![Screenshot (21)](https://user-images.githubusercontent.com/93968740/189634835-26ddb402-9de4-4853-9d17-03e19b4a95e2.png)
-![Screenshot (22)](https://user-images.githubusercontent.com/93968740/189634860-892823a0-5359-45c3-b16f-2ba6f81da4be.png)
-![Screenshot (23)](https://user-images.githubusercontent.com/93968740/189634883-60b55c5e-f2fd-42b6-8b05-d743cd3926f6.png)
-![Screenshot (24)](https://user-images.githubusercontent.com/93968740/189634776-bba0bc28-37b7-4a39-afaf-aa8b99fec248.png)
+
 
 # Getting Started with Create React App
 
